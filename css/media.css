@@ -1,0 +1,12 @@
+@media(max-width:375) {
+    .advise_app{
+        width: 343px;
+        height: 315px;
+        padding: 40px 24px;
+    }
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
